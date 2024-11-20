@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|c:\\users\\felix\\downloads\\hdcode\\codepracticeresult\\calendarapp\\calendarapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|c:\\users\\felix\\downloads\\hdcode\\codepracticeresult\\calendarapp\\calendarapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|c:\\users\\felix\\downloads\\hdcode\\codepracticeresult\\calendarapp\\calendarapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|solutionrelative:registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|c:\\users\\felix\\downloads\\hdcode\\codepracticeresult\\calendarapp\\calendarapp\\neweventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|solutionrelative:neweventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|c:\\users\\felix\\downloads\\hdcode\\codepracticeresult\\calendarapp\\calendarapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F908166A-90E1-4406-96B7-754B197517DF}|CalendarApp.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{860f0cbe-0c84-4abe-8062-fa681f8038db}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\NewEventWindow.xaml",
+              "RelativeDocumentMoniker": "NewEventWindow.xaml",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\NewEventWindow.xaml",
+              "RelativeToolTip": "NewEventWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T16:46:48.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T16:42:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\RegisterWindow.xaml",
+              "RelativeToolTip": "RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T16:47:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv1IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:42:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\felix\\Downloads\\hdcode\\CodePracticeResult\\CalendarApp\\CalendarApp\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T16:46:18.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
