@@ -7,7 +7,10 @@ Kirill
 
 Felix
 1. What I have done / not done since last Scrum?
+Initial upload: brought 4 window(s) to the repository.
+Tried to connnect with the Microsoft Azure SQL Server.
 2. What I plan to do from this scrum to next? (next 24 hours)
+Connected Azure Server with the Azure SQL Server.
 3. Where do I need assistance? What do I need to figure out?
 
 melinda
